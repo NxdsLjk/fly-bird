@@ -1,5 +1,5 @@
 /**
- * Created by maple on 16-12-15.
+ * Created by www.cnblogs.com/jasper-sec/p/17880637.html.
  */
 var jsHeadTitle=document.getElementById('headTitle');//获取标题
 var jsHeadBird=document.getElementById('headBird');//获取标题中小鸟
